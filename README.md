@@ -3,6 +3,10 @@
 **Software Engineering E-book download link:**<br>
 https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practitioners_approach_by_roger_s._pressman_.pdf
 
+**Java The Complete Reference 11th Edition:**<br>
+https://www.academia.edu/41982986/Java_The_Complete_Reference_11th_edition<br>
+https://pdfcoffee.com/java-the-complete-reference-eleventh-edition-pdf-free.html
+
 **Java Installation:**
 __(Installing Java-8)__
 * First Download Java 8 from the link: "https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html" and install it. (jdk-8u202-windows-x64.exe (211.58 MB))
