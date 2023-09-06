@@ -71,3 +71,7 @@ https://app.diagrams.net/?libs=general
 These are the most useful eclipse shortcuts that we use every day to save time. 
 
 <hr>
+
+## Housing Peoject Layout:
+![image](https://github.com/toarnabtrainer/USA_JAVA_223/assets/111301975/542ebdbc-1370-47e9-9bea-4f96015fa889)
+
